@@ -72,8 +72,8 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
-EMAIL_HOST_USER = 'sportsystem305@gmail.com' 
-EMAIL_HOST_PASSWORD = 'rqiz vivi nbry obry'  
+EMAIL_HOST_USER = 'kau.ieee.sb@gmail.com' 
+EMAIL_HOST_PASSWORD = 'IeKauFGSTB03581'  
 
 
 WSGI_APPLICATION = 'ContactProject.wsgi.application'
